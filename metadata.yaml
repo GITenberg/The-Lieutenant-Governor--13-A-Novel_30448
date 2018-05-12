@@ -1,0 +1,28 @@
+_repo: The-Lieutenant-Governor--13-A-Novel_30448
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carryl, Guy Wetmore
+    birthdate: 1873
+    deathdate: 1904
+    gutenberg_agent_id: '9039'
+    url: http://www.gutenberg.org/2009/agents/9039
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Wetmore_Carryl
+description: ''
+gutenberg_issued: '2009-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30448'
+  lccn: 03006568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'The Lieutenant-Governor: A Novel'
+url: http://www.gutenberg.org/ebooks/30448
