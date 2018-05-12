@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9039
     wikipedia: http://en.wikipedia.org/wiki/Guy_Wetmore_Carryl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30448#The-Lieutenant-Governor--13-A-Novel
 gutenberg_issued: '2009-11-10'
 gutenberg_type: Text
 identifiers:
